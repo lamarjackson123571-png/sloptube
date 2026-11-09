@@ -11,9 +11,9 @@ export const siteConfig = {
   /** The site's name in titles, share cards and the footer. */
   siteName: "sloptube",
   /** The person or organization that runs this copy of sloptube, as it should appear in the terms. */
-  ownerName: "OWNER_NAME",
+  ownerName: "Jared",
   /** Where people (and the press) can write. Also shown on /contact next to the form. */
-  contactEmail: "CONTACT_EMAIL",
+  contactEmail: "lamarjackson123571@gmail.com",
   /** The country or state whose law the terms follow, like "Germany" or "California, USA". */
   jurisdiction: "JURISDICTION",
   /** The date the terms and the privacy notice last changed, shown at the top of both. */
